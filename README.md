@@ -5,9 +5,7 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 </p>
 <br>
 <br>
-
 <h2 align="center">🛠 Tech Stack</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
@@ -16,7 +14,6 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=Dialogflow&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,3 +23,8 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
+<br>
+<br>
+<h2 align="center">🌐 Socials</h2>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannat-gupta-53b215335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatrekha08@gmail.com)
