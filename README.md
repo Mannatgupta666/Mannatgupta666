@@ -3,7 +3,8 @@
 <p align="center">
 Sophomore at IIT Roorkee | Learning, building, and exploring technology
 </p>
-
+<br>
+<br>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
