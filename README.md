@@ -4,7 +4,8 @@
 Sophomore at IIT Roorkee | Learning, building, and exploring technology
 </p>
 
-### 🛠 Tech Stack
+
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js">
@@ -12,6 +13,7 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 <p align="center">
