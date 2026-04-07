@@ -26,5 +26,5 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 <br>
 <br>
 <h2 align="center">🌐 Socials</h2>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannat-gupta-53b215335)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white", a="https://www.linkedin.com/in/mannat-gupta-53b215335">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatrekha08@gmail.com)
