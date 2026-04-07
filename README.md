@@ -1,5 +1,8 @@
-                                                  Myself Mannat Gupta ☀️ <br>
-                            Sophomore at IIT Roorkee | Learning, building, and exploring technology
+<h1 align="center">Myself Mannat Gupta ☀️</h1>
+
+<p align="center">
+Sophomore at IIT Roorkee | Learning, building, and exploring technology
+</p>
 
 ### 🛠 Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
