@@ -1,4 +1,4 @@
-#Myself Mannat Gupta ☀️ 
+#Myself Mannat Gupta ☀️ <br>
 ##Sophomore at IIT Roorkee | Learning, building, and exploring technology
 
 ### 🛠 Tech Stack
