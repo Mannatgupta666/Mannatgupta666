@@ -30,7 +30,7 @@ Sophomore at IIT Roorkee | Learning, building, and exploring technology
 <a href="https://www.linkedin.com/in/mannat-gupta-53b215335">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:mannatrekha08@gmail.com">
+<a href="mailto:mannat_g@mt.iitr.ac.in">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
